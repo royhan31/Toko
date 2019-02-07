@@ -723,17 +723,6 @@
 							</li>
 						</ul>
 					</div>
-    				<div class="ulockd-footer-newsletter">
-    					<h4 class="title text-uppercase">News Letter</h4>
-		                <form class="ulockd-mailchimp">
-		                    <div class="input-group">
-			                    <input type="email" class="form-control input-md" placeholder="Your email" name="EMAIL" value="">
-			                    <span class="input-group-btn">
-			                        <button type="submit" class="btn btn-md"><i class="icon flaticon-right-arrow"></i></button>
-			                    </span>
-		                    </div>
-		                </form>
-    				</div>
 				</div>
 			</div>
 		</div>
@@ -744,7 +733,7 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-md-12">
-					<p class="color-white">bMax Copyright© 2017.Unlock Design All right reserved.</p>
+					<p class="color-white">Copyright© 2019</p>
 				</div>
 			</div>
 		</div>
