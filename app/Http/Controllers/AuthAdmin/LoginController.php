@@ -40,7 +40,7 @@ class LoginController extends Controller
       // else{
       //   return redirect()->back()->with('error','Login Gagal')->withInput($request->only('email','remember'));
       // }
-      return redirect()->back()->withInput($request->only('email','remember'));
+      return redirect()->back()->withInput($request->only('username','remember'));
     }
 
     public function logout(){
