@@ -14,13 +14,11 @@
 <!-- Title -->
 <title>Toko Rakyat</title>
 <!-- Favicon -->
-<link href="{{asset('assets/landing/images/favicon.ico')}}" sizes="128x128" rel="shortcut icon" type="image/x-icon" />
-<link href="{{asset('assets/landing/images/favicon.ico')}}" sizes="128x128" rel="shortcut icon" />
+<!-- <link href="{{asset('assets/landing/images/favicon.ico')}}" rel="shortcut icon" type="image/x-icon"> -->
 </head>
 <body>
 <div class="wrapper">
 	<div class="preloader"></div>
-
 	<!-- Header Styles -->
 	<header class="header-nav">
 		<div class="main-header-nav navbar-fixed-top">
