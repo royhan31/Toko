@@ -33,15 +33,6 @@
 		                	<a class="navbar-brand ulockd-main-logo2" href="#brand"><img src="{{asset('assets/landing/images/header-logo2.png')}}" class="logo" alt=""></a>
 			            </div>
 			            <!-- End Header Navigation -->
-
-			            <!-- Start Header Navigation -->
-			            <div class="navbar-header">
-			                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-menu">
-			                    <i class="fa fa-bars"></i>
-			                </button>
-			            </div>
-			            <!-- End Header Navigation -->
-
 			            <!-- Collect the nav links, forms, and other content for toggling -->
 			            <div class="collapse navbar-collapse" id="navbar-menu">
 			                <ul class="nav navbar-nav navbar-right single-page">
